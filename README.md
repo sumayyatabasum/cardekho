@@ -1,6 +1,11 @@
 # 🚗 CarDekho UI Clone
 
 > A frontend UI replication of the CarDekho website built for practice, focusing on responsive design, layout structuring, and component-based development using modern web technologies.
+---
+
+## 🌐 Live Demo
+
+👉 **[Click here to view the app](https://cardekho-lime.vercel.app/)**
 
 ---
 
