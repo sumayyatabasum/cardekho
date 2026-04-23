@@ -4,12 +4,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-🔗 *Add your deployed link here (if available)*
-
----
-
 ## 📌 About the Project
 
 This project is a **practice-based UI clone inspired by CarDekho**, one of India’s leading automotive platforms. The goal was to understand how real-world websites structure their layout, display data, and provide a smooth user experience.
